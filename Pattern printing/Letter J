@@ -1,4 +1,4 @@
-//Write a program to print letter J exactly as shown
+//Write a program to print letter J exactly as shown below 
 #include <iostream>
 
 using namespace std;
